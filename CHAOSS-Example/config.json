@@ -1,0 +1,10 @@
+{
+    "connection_string": "sqlite:///:memory:",
+    "database": "panthers_test",
+    "host": "vista.osshealth.io",
+    "password": "XKCD2021x",
+    "port": 5433,
+    "schema": "augur_data",
+    "user": "hackread",
+    "user_type": "read_only"
+}

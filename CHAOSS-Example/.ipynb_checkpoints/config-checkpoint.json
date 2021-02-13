@@ -1,0 +1,10 @@
+{
+    "connection_string": "sqlite:///:memory:",
+    "database": "augur_howison",
+    "host": "data.guillotine.io",
+    "password": "XKCD2021x",
+    "port": 5433,
+    "schema": "augur_data",
+    "user": "james",
+    "user_type": "read_only"
+}
